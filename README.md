@@ -44,4 +44,4 @@ This study demonstrates the application of various machine learning models to pr
 Saptadeep Choudhury(https://github.com/Saptadeep1202)
 
 ## License
-This project is licensed under the Apache License.
+This project is licensed under the Apache-2.0 License.
