@@ -38,3 +38,10 @@ The most accurate model was determined based on the evaluation metrics, and reco
 
 ## Conclusion
 This study demonstrates the application of various machine learning models to predict rice yield in West Bengal, India. The insights gained from this research can aid farmers, agronomists, and policymakers in making informed decisions to enhance crop production.
+
+
+## Contributor
+Saptadeep Choudhury(https://github.com/Saptadeep1202)
+
+## License
+This project is licensed under the Apache License.
